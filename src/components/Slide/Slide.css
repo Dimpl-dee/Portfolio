@@ -1,0 +1,17 @@
+
+.slider-mar{
+    align-items: center;
+    margin: 3px;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    background-color: rgb(240, 240, 243);
+}
+.slider-des{
+    font-size: 1rem;
+}
+
+@media(max-width: 768px) {
+    .slider-mar{
+        margin-bottom: 2rem;
+    }
+}
